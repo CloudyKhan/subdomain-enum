@@ -99,7 +99,8 @@ Run the script by providing the domain you want to enumerate subdomains for:
 Uncomment or comment sections in the script as needed to your preferences.
 
 ## Output
-The results should be saved in the following directory structure:
+The results should be saved in the following directory structure 
+```
 <domain>/recon/
   ├── scans/
   ├── httprobe/
@@ -117,3 +118,4 @@ The results should be saved in the following directory structure:
   │       ├── json.txt
   │       ├── html.txt
   └── final.txt
+```
