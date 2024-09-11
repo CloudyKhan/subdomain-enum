@@ -1,6 +1,6 @@
 # Subdomain Enumeration Script
 
-This Bash script automates subdomain enumeration, live domain checking, port scanning, and data extraction from the Wayback Machine. It integrates various tools such as `assetfinder`, `httprobe`, `subjack`, `nmap`, and `waybackurls` to conduct reconnaissance on a target domain.
+This Bash script automates subdomain enumeration, live domain checking, port scanning, and data extraction from the Wayback Machine. It integrates various tools such as `assetfinder`, `httprobe`, `subjack`, `nmap`, and `waybackurls` to conduct reconnaissance on a target domain. Inspried from the CyberMentor
 
 ## Features
 
