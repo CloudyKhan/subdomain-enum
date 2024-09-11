@@ -77,7 +77,7 @@ To install Go, visit: [Go Installation](https://golang.org/dl/)
 1. Clone the repository or download the script:
 
 ```bash
-git clone https://github.com/dkhan25/subdomain-enum.git
+git clone https://github.com/CloudyKhan/subdomain-enum.git
 ```
 2. Navigate to the folder containing the script:
 
